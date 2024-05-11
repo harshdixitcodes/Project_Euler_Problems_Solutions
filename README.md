@@ -1,3 +1,4 @@
+<h1>Project Euler</h1>
 This repository contains my personal solutions to problems from the Project Euler website, where I tackle various complex mathematical and computational challenges. 
 Each solution is crafted to be efficient and understandable. 
 Feel free to explore the code and use it as a reference for your own Project Euler journey.
