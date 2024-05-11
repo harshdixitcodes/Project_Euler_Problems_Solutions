@@ -1,3 +1,4 @@
+// First Approach
 #include <iostream>
 #include <cmath>  // Include cmath for the sqrt function
 #include <corecrt_math.h>
@@ -30,6 +31,8 @@ int main() {
 
     return 0;
 }
+
+// Another approach
 /*
 #include <iostream>  // Include the IO stream library for input and output operations
 using namespace std;
